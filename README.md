@@ -60,3 +60,5 @@ By leveraging **uplift modeling**, **A/B testing**, and **real transaction data*
 For feedback, collaboration opportunities, or further discussion, feel free to connect!
 
 ✨ **Thank you for reviewing this project!** ✨
+
+<hr style="height:2px; border:none; background-color:#e1e4e8; margin:24px 0;">
